@@ -3,6 +3,4 @@ def imprimir(texto):
 
 def imprimir2(texto):
     print("Hola Mundo" + texto)
-Hola esto es p rueba
-hola esto es una prueba 
-hola esto es una prueba 
+Vea ya no hay nada aqui jajajajaja xd
